@@ -1,6 +1,6 @@
 # Projeto de pedidos
 
-<b> Demonstração: </b> <a> heroku ...</a>
+<b> Demonstração: </b> <a>https://doctor-order-app.herokuapp.com/</a>
 <br/>
 <b> Login: </b>
 
@@ -13,12 +13,12 @@
 <b> Funcionalidades e tecnologias </b>
 
 - Cadastro de pessoas físicas
-- Cadastro de produtos
+- Cadastro de médicos
 - Cadastro de pedidos
 - Login com JWT e Spring Security
 - Spring Boot
 - Angular 8 - TypeScript
-- API Swagger (http://localhost:8080/api/swagger-ui.html)
+- API Swagger (http://localhost:8080/api/swagger-ui.html ou https://doctor-order-app.herokuapp.com/api/swagger-ui.html)
 - QueryDSL 
 - Java 8
 - Maven 
