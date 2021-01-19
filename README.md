@@ -1,6 +1,6 @@
 # Projeto de pedidos
 
-<b> Demonstração: </b> <a>https://doctor-order-app.herokuapp.com/</a>
+<b> Demonstração: </b> <a>https://doctor-order-app.herokuapp.com/</a> - Obs.: esperar subir a API;
 <br/>
 <b> Login: </b>
 
@@ -18,7 +18,7 @@
 - Login com JWT e Spring Security
 - Spring Boot
 - Angular 8 - TypeScript
-- API Swagger (http://localhost:8080/api/swagger-ui.html ou https://doctor-order-app.herokuapp.com/api/swagger-ui.html)
+- API Swagger (http://localhost:8080/api/swagger-ui.html ou https://doctor-order-api.herokuapp.com/api/swagger-ui.html)
 - QueryDSL 
 - Java 8
 - Maven 
@@ -35,7 +35,7 @@
 <b> Para executar localmente: </b>
 
 - Para rodar o projeto em seu computador, clone este repositório no mesmo, execute esse comando no terminal `docker-compose up` dentro do diretório do projeto.
-- <b>Obs.:</b> é necessário ter o docker instalado no seu computador.
+- <b>Obs.:</b> é necessário ter o docker (~19.03.8) instalado no seu computador.
 
 - No navegador, digite a seguinte URL: <a>http://localhost:9000/</a>
 
